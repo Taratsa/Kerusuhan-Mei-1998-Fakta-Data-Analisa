@@ -1,0 +1,231 @@
+{
+  "source_pdf": "Kerusuhan Mei 1998 Fakta, Data & Analisa _ Mengungkap Kerusuhan Mei 1998 Sebagai Kejahatan Terhadap Kemanusiaan - Ester Indahyan.pdf",
+  "ocr": {
+    "server": "http://HOST:8020",
+    "mode": "ocr",
+    "dpi": 200,
+    "timeout_s": 600,
+    "retries": 3
+  },
+  "title": "Kerusuhan Mei 1998: Fakta, Data & Analisa",
+  "author": "Ester Indahyani Jusuf, Hotma Timbul, Olisias Gultom, Sondang Frishka",
+  "lang": "id",
+  "epub_name": "Kerusuhan Mei 1998 - Fakta, Data & Analisa.epub",
+  "cover_page": 0,
+  "skip_pages": [
+    0,
+    3,
+    4
+  ],
+  "front_matter": {
+    "heading": "Halaman Judul",
+    "lines": [],
+    "pages": [
+      1
+    ]
+  },
+  "chapters": [
+    [
+      2,
+      "Dari Penulis",
+      null
+    ],
+    [
+      5,
+      "Latar Belakang Situasi",
+      "BAB I"
+    ],
+    [
+      63,
+      "Kerusuhan Mei ’98 di Berbagai Kota",
+      "BAB 2"
+    ],
+    [
+      88,
+      "Fakta Umum Kerusuhan Mei 1998 di Jakarta",
+      "BAB 3"
+    ],
+    [
+      129,
+      "Kerusakan dan Korban",
+      "BAB 4"
+    ],
+    [
+      160,
+      "Siapa Pelaku?",
+      "BAB 5"
+    ],
+    [
+      178,
+      "Dimana Aparat?",
+      "BAB 6"
+    ],
+    [
+      222,
+      "Kronologi Ekonomi",
+      "Lampiran A"
+    ],
+    [
+      240,
+      "Pemberitaan Media",
+      "Lampiran B"
+    ],
+    [
+      273,
+      "Resume Kronologi Kerusuhan Mei 1998 di Jakarta",
+      "Lampiran C"
+    ]
+  ],
+  "footer_patterns": [],
+  "typo_fixes": [],
+  "keep_joins": [],
+  "verify": {
+    "must_contain": [],
+    "must_not_contain": []
+  },
+  "source": "book.md",
+  "corrections": {
+    "baseline": "book.ocr-original.md",
+    "enforce": true
+  },
+  "se": {
+    "title": "Kerusuhan Mei 1998",
+    "subtitle": "Fakta, Data & Analisa: Mengungkap Kerusuhan Mei 1998 Sebagai Kejahatan Terhadap Kemanusiaan",
+    "author": "Ester Indahyani Jusuf",
+    "author_full_name": "Ester Indahyani Jusuf",
+    "author_file_as": "Jusuf, Ester Indahyani",
+    "work": "kerusuhan-mei-1998",
+    "publisher": "Solidaritas Nusa Bangsa (SNB) dan Asosiasi Penasehat Hukum dan Hak Asasi Manusia Indonesia (APHI)",
+    "producer": {
+      "name": "Taratsa",
+      "file_as": "Taratsa"
+    },
+    "rights": "Karya asli: hak cipta pemegang hak masing-masing (status tidak diketahui). Kontribusi edisi digital: CC0 1.0 Universal.",
+    "abstract": "Buku ini menyajikan fakta, data, dan analisa mengenai Kerusuhan Mei 1998, mulai dari rangkaian peristiwa yang mendahuluinya, kerusuhan di sejumlah kota, kerusakan dan korban, ciri-ciri pelaku, hingga keberadaan aparat keamanan. Disusun berdasarkan kesaksian, pemberitaan media, dan data lapangan, buku ini menunjukkan bahwa peristiwa tersebut merupakan kejahatan terhadap kemanusiaan.",
+    "description_html": "<p>Buku yang disusun oleh Ester Indahyani Jusuf, Hotma Timbul, Olisias Gultom, dan Sondang Frishka ini menyajikan fakta, data, dan analisa mengenai Kerusuhan Mei 1998. Pembahasan mencakup latar belakang situasi, kerusuhan di berbagai kota, kerusakan dan korban, ciri-ciri pelaku, serta keberadaan aparat keamanan.</p>",
+    "subjects": [
+      [
+        "Riots--Indonesia",
+        "sh2010111063"
+      ],
+      [
+        "Chinese--Indonesia",
+        "sh2008117668"
+      ],
+      [
+        "Human rights--Indonesia",
+        "sh2008105905"
+      ],
+      [
+        "Indonesia--History--1998-",
+        "sh2007001451"
+      ],
+      [
+        "Indonesia--Politics and government--1998-",
+        "sh99003241"
+      ]
+    ],
+    "genre": "Nonfiction",
+    "contributors": [
+      {
+        "id": "contributor-2",
+        "name": "Hotma Timbul",
+        "file_as": "Timbul, Hotma",
+        "role": "aut"
+      },
+      {
+        "id": "contributor-3",
+        "name": "Olisias Gultom",
+        "file_as": "Gultom, Olisias",
+        "role": "aut"
+      },
+      {
+        "id": "contributor-4",
+        "name": "Sondang Frishka",
+        "file_as": "Frishka, Sondang",
+        "role": "aut"
+      }
+    ],
+    "source_label": "pindaian PDF terbitan SNB dan APHI, 2005",
+    "image_alt": {
+      "p16_0.jpg": "Grafik fluktuasi nilai tukar rupiah terhadap dolar Amerika Serikat, Juli 1997 hingga Mei 1998.",
+      "p16_1.jpg": "Grafik penurunan tingkat inflasi Indonesia, 1997-1998.",
+      "p17_0.jpg": "Grafik kondisi impor dan ekspor Indonesia menjelang Mei 1998.",
+      "p17_1.jpg": "Grafik indeks Jakarta Stock Exchange, 1997-1998.",
+      "p101_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 13 Mei 1998.",
+      "p102_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 13 Mei 1998 hingga pukul 12.00 WIB.",
+      "p103_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 13 Mei 1998 hingga pukul 14.00 WIB.",
+      "p104_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 14 Mei 1998 mulai pukul 09.00 WIB.",
+      "p105_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 14 Mei 1998 hingga pukul 11.00 WIB.",
+      "p106_0.jpg": "Peta sebaran titik kerusuhan di Jakarta pada 14 Mei 1998 hingga pukul 13.00 WIB.",
+      "p107_0.jpg": "Peta total lokasi kerusuhan di Jakarta pada 14 Mei 1998.",
+      "p108_0.jpg": "Peta total lokasi kerusuhan di Jakarta pada 13-15 Mei 1998.",
+      "p114_0.jpg": "Grafik jumlah lokasi kerusuhan per wilayah di Jakarta.",
+      "p114_1.jpg": "Grafik jumlah peristiwa kerusuhan per wilayah di Jakarta.",
+      "p120_0.jpg": "Diagram tindakan dan kejadian menonjol saat kerusuhan.",
+      "p121_0.jpg": "Grafik bentuk tindakan yang berhubungan dengan tahap awal kerusuhan.",
+      "p123_0.jpg": "Grafik tindakan atau peristiwa saat kerusuhan berlangsung.",
+      "p126_0.jpg": "Grafik tindakan atau peristiwa menonjol pada akhir dan pasca kerusuhan.",
+      "p163_0.jpg": "Grafik berbagai tindakan menonjol kelompok pelaku.",
+      "p167_0.jpg": "Ilustrasi ciri fisik kelompok pelaku kerusuhan.",
+      "p172_0.jpg": "Ilustrasi peralatan yang dibawa kelompok pelaku kerusuhan.",
+      "p189_0.jpg": "Ilustrasi tindakan aparat yang membiarkan kerusuhan.",
+      "p190_0.jpg": "Grafik tindakan aparat di wilayah Jakarta Utara.",
+      "p191_0.jpg": "Grafik tindakan aparat di wilayah Jakarta Pusat.",
+      "p192_0.jpg": "Grafik tindakan aparat di wilayah Jakarta Timur.",
+      "p193_0.jpg": "Grafik tindakan aparat di wilayah Jakarta Selatan.",
+      "p194_0.jpg": "Grafik tindakan aparat di wilayah Jakarta Barat.",
+      "p195_0.jpg": "Grafik tindakan aparat di wilayah Depok.",
+      "p196_0.jpg": "Grafik tindakan aparat di wilayah Tangerang.",
+      "p197_0.jpg": "Grafik tindakan aparat di wilayah Bekasi.",
+      "p198_0.jpg": "Grafik tindakan aparat pada lokasi di mana aparat berada atau tidak jauh dari lokasi.",
+      "p199_0.jpg": "Grafik tindakan kelompok pelaku pada lokasi di mana aparat berada atau tidak jauh dari lokasi.",
+      "p200_0.jpg": "Grafik catatan lain pada lokasi di mana aparat berada atau tidak jauh dari lokasi.",
+      "p201_0.jpg": "Grafik tindakan aparat pada lokasi di mana aparat tidak ada di lokasi.",
+      "p202_0.jpg": "Grafik tindakan kelompok pelaku pada lokasi di mana aparat tidak ada di lokasi.",
+      "p203_0.jpg": "Grafik catatan lain pada lokasi di mana aparat tidak ada di lokasi.",
+      "p204_0.jpg": "Grafik tindakan aparat di lokasi di mana aparat hanya menjaga lokasi tertentu.",
+      "p205_0.jpg": "Grafik tindakan kelompok pelaku di lokasi di mana aparat hanya menjaga lokasi tertentu.",
+      "p206_0.jpg": "Grafik catatan lain di lokasi di mana aparat hanya menjaga lokasi tertentu.",
+      "p207_0.jpg": "Grafik tindakan aparat di lokasi di mana aparat membiarkan kerusuhan.",
+      "p208_0.jpg": "Grafik tindakan kelompok pelaku di lokasi di mana aparat membiarkan kerusuhan.",
+      "p208_1.jpg": "Grafik catatan lain di lokasi di mana aparat membiarkan kerusuhan."
+    },
+    "acronyms": [
+      "ABRI",
+      "APHI",
+      "BIA",
+      "DPR",
+      "DPRD",
+      "GOLKAR",
+      "HAM",
+      "HKBP",
+      "ICMI",
+      "KODAM",
+      "KOPASSUS",
+      "KOSTRAD",
+      "KOWAD",
+      "LBH",
+      "MPR",
+      "NU",
+      "PDI",
+      "PDIP",
+      "PHH",
+      "PMI",
+      "POLDA",
+      "PPP",
+      "PRD",
+      "RSCM",
+      "SNB",
+      "SSK",
+      "TGPF",
+      "YLBHI"
+    ],
+    "production_notes": [
+      "Teks disalin dari pindaian PDF terbitan SNB dan APHI (2005) dengan OCR; kesalahan OCR diperbaiki seperlunya.",
+      "Tabel dipertahankan sebagai tabel HTML; sebagian sel hasil OCR belum sepenuhnya rapi.",
+      "Catatan kaki tetap berada di akhir halaman aslinya di dalam alur teks, belum disusun sebagai catatan akhir."
+    ],
+    "released": "2026-11-25T18:25:07Z"
+  }
+}

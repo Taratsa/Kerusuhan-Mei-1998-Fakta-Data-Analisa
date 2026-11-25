@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore code="s-023">
+			<reason>Judul berbahasa Indonesia; kapitalisasi judul gaya Inggris dari `se titlecase` tidak berlaku.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore code="m-056">
+			<reason>Edisi white-label, bukan rilis Standard Ebooks; tidak ada halaman penulis di standardebooks.org untuk ditautkan.</reason>
+		</ignore>
+	</file>
+	<file path="masthead.xhtml">
+		<ignore code="t-048">
+			<reason>Kalimat pembuka kotak keterangan dicetak dengan nama acara dalam huruf kapital di sumber; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-003">
+			<reason>Baris alamat/kontak dicetak tanpa tanda baca akhir di sumber; dipertahankan apa adanya.</reason>
+		</ignore>
+		<ignore code="y-034">
+			<reason>Titik pada alamat web dan surel (perspektif.net) bukan singkatan.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
